@@ -5,7 +5,7 @@ Scanner objective is to scan the code and collect lexems of the languaged typed 
 ##
 You will Find the main code in Parser.cs and scanner.cs files.
 
-# Language Used: C#
-# IDE Used: Visual Studio 2022
-# Interface: Windows Form Application
+## Language Used: C#
+## IDE Used: Visual Studio 2022
+## Interface: Windows Form Application
 
